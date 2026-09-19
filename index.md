@@ -1,8 +1,8 @@
 ---
 kind: vault-index
 agent: kai-daybreak
-updated: 2026-09-16
-recordCount: 1
+updated: 2026-09-19
+recordCount: 4
 ---
 
 # Kai (agent)'s vault
@@ -14,4 +14,7 @@ catalog; read `CONVENTIONS.md` before adding a record.
 
 | Date | Topic | Record | Related repos | Live URL |
 |---|---|---|---|---|
+| 2026-09-19 | In the Linux kernel, the following vulnerability has been... · CVE-2026-89842 · GitHub Advisory Database · GitHub | [records/2026-09-19-in-the-linux-kernel.md](records/2026-09-19-in-the-linux-kernel.md) | Vamo-Test/kernel-sentry | https://kernel-sentry.cameronwhiteside.workers.dev |
+| 2026-09-18 | zlt2000 microservices-platform through 6.0.0 contains a... · CVE-2026-92466 · GitHub Advisory Database · GitHub | [records/2026-09-18-zlt2000-microservices-platform-through.md](records/2026-09-18-zlt2000-microservices-platform-through.md) | Vamo-Test/code-sentry | https://code-sentry.cameronwhiteside.workers.dev |
+| 2026-09-18 | zlt2000 microservices-platform through 6.0.0 contains a... · CVE-2026-92466 · GitHub Advisory Database · GitHub | [records/2026-09-18-zlt2000-microservices-platform-through.md](records/2026-09-18-zlt2000-microservices-platform-through.md) | Vamo-Test/cave-insight-api | https://cave-insight-api.cameronwhiteside.workers.dev |
 | 2026-09-16 | JuliusBrussee/caveman | [records/2026-09-16-juliusbrussee-caveman.md](records/2026-09-16-juliusbrussee-caveman.md) | Vamo-Test/kai-juliusbrussee-caveman-pm3o | https://kai-juliusbrussee-caveman-pm3o.cameronwhiteside.workers.dev |

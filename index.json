@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "kai-daybreak",
-  "updated": "2026-09-16",
+  "updated": "2026-09-19",
   "records": [
     {
       "path": "records/2026-09-16-juliusbrussee-caveman.md",
@@ -11,6 +11,33 @@
         "Vamo-Test/kai-juliusbrussee-caveman-pm3o"
       ],
       "liveUrl": "https://kai-juliusbrussee-caveman-pm3o.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-18-zlt2000-microservices-platform-through.md",
+      "date": "2026-09-18",
+      "topic": "zlt2000 microservices-platform through 6.0.0 contains a... · CVE-2026-92466 · GitHub Advisory Database · GitHub",
+      "relatedRepos": [
+        "Vamo-Test/cave-insight-api"
+      ],
+      "liveUrl": "https://cave-insight-api.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-18-zlt2000-microservices-platform-through.md",
+      "date": "2026-09-18",
+      "topic": "zlt2000 microservices-platform through 6.0.0 contains a... · CVE-2026-92466 · GitHub Advisory Database · GitHub",
+      "relatedRepos": [
+        "Vamo-Test/code-sentry"
+      ],
+      "liveUrl": "https://code-sentry.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-19-in-the-linux-kernel.md",
+      "date": "2026-09-19",
+      "topic": "In the Linux kernel, the following vulnerability has been... · CVE-2026-89842 · GitHub Advisory Database · GitHub",
+      "relatedRepos": [
+        "Vamo-Test/kernel-sentry"
+      ],
+      "liveUrl": "https://kernel-sentry.cameronwhiteside.workers.dev"
     }
   ]
 }
