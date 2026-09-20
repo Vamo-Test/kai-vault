@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "kai-daybreak",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "records": [
     {
       "path": "records/2026-09-16-juliusbrussee-caveman.md",
@@ -38,6 +38,15 @@
         "Vamo-Test/kernel-sentry"
       ],
       "liveUrl": "https://kernel-sentry.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-20-dicklesworthstone-readme-md-at.md",
+      "date": "2026-09-20",
+      "topic": "Dicklesworthstone/README.md at main - GitHub",
+      "relatedRepos": [
+        "Vamo-Test/dicklesworth-canvas"
+      ],
+      "liveUrl": "https://dicklesworth-canvas.cameronwhiteside.workers.dev"
     }
   ]
 }
