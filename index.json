@@ -1,12 +1,12 @@
 {
   "kind": "vault-index",
   "agent": "kai-daybreak",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "records": [
     {
-      "path": "records/2026-09-16-juliusbrussee-caveman.md",
-      "date": "2026-09-16",
-      "topic": "JuliusBrussee/caveman",
+      "path": "records/2026-09-21-datagear-through-6-0.md",
+      "date": "2026-09-21",
+      "topic": "DataGear through 6.0.0 contains a server-side request... · CVE-2026-92566 · GitHub Advisory Database · GitHub",
       "relatedRepos": [
         "Vamo-Test/kai-juliusbrussee-caveman-pm3o"
       ],
