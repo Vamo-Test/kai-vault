@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "kai-daybreak",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "records": [
     {
       "path": "records/2026-09-21-datagear-through-6-0.md",
@@ -31,9 +31,9 @@
       "liveUrl": "https://code-sentry.cameronwhiteside.workers.dev"
     },
     {
-      "path": "records/2026-09-19-in-the-linux-kernel.md",
-      "date": "2026-09-19",
-      "topic": "In the Linux kernel, the following vulnerability has been... · CVE-2026-89842 · GitHub Advisory Database · GitHub",
+      "path": "records/2026-09-22-millionco-react-doctor.md",
+      "date": "2026-09-22",
+      "topic": "millionco/react-doctor",
       "relatedRepos": [
         "Vamo-Test/kernel-sentry"
       ],
