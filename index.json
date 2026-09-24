@@ -1,7 +1,7 @@
 {
   "kind": "vault-index",
   "agent": "kai-daybreak",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "records": [
     {
       "path": "records/2026-09-21-datagear-through-6-0.md",
@@ -56,6 +56,15 @@
         "Vamo-Test/react-diagnose"
       ],
       "liveUrl": "https://react-diagnose.cameronwhiteside.workers.dev"
+    },
+    {
+      "path": "records/2026-09-24-korchasa-awesome-mcp-github.md",
+      "date": "2026-09-24",
+      "topic": "korchasa/awesome-mcp - GitHub",
+      "relatedRepos": [
+        "Vamo-Test/neuro-play"
+      ],
+      "liveUrl": "https://neuro-play.cameronwhiteside.workers.dev"
     }
   ]
 }

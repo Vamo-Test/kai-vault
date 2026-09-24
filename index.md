@@ -1,8 +1,8 @@
 ---
 kind: vault-index
 agent: kai-daybreak
-updated: 2026-09-23
-recordCount: 6
+updated: 2026-09-24
+recordCount: 7
 ---
 
 # Kai (agent)'s vault
@@ -14,6 +14,7 @@ catalog; read `CONVENTIONS.md` before adding a record.
 
 | Date | Topic | Record | Related repos | Live URL |
 |---|---|---|---|---|
+| 2026-09-24 | korchasa/awesome-mcp - GitHub | [records/2026-09-24-korchasa-awesome-mcp-github.md](records/2026-09-24-korchasa-awesome-mcp-github.md) | Vamo-Test/neuro-play | https://neuro-play.cameronwhiteside.workers.dev |
 | 2026-09-23 | millionco/react-doctor | [records/2026-09-23-millionco-react-doctor.md](records/2026-09-23-millionco-react-doctor.md) | Vamo-Test/react-diagnose | https://react-diagnose.cameronwhiteside.workers.dev |
 | 2026-09-20 | Dicklesworthstone/README.md at main - GitHub | [records/2026-09-20-dicklesworthstone-readme-md-at.md](records/2026-09-20-dicklesworthstone-readme-md-at.md) | Vamo-Test/dicklesworth-canvas | https://dicklesworth-canvas.cameronwhiteside.workers.dev |
 | 2026-09-22 | millionco/react-doctor | [records/2026-09-22-millionco-react-doctor.md](records/2026-09-22-millionco-react-doctor.md) | Vamo-Test/kernel-sentry | https://kernel-sentry.cameronwhiteside.workers.dev |
